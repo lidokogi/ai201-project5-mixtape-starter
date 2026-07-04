@@ -79,3 +79,8 @@ For Bug 4, I found the missing notification by comparing `add_to_playlist()` and
 ## Git Log
 
 *(paste screenshot of `git log --oneline` here before submitting)*
+![docs: add submission.md with codebase map and root cause analyses
+f9cef94 fix: add missing notification to song sharer when their song is rated
+9fea410 fix: remove incorrect Sunday boundary condition from streak increment logic
+2dfdeaa (origin/main, origin/HEAD, main) Add .gitignore file and update README with setup instructions
+7b64551 initial commit](image.png)
